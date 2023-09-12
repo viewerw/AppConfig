@@ -1,0 +1,17 @@
+matches:
+  # misc
+  - trigger: ";>>"
+    replace: ➡
+  - trigger: ";vv"
+    replace: ⬇
+  - trigger: ";^^"
+    replace: ⬆
+  - trigger: ";<<"
+    replace: ⬅
+  # life
+  - trigger: ";mobi"
+    replace: 15601598900
+  - trigger: ";mailqq"
+    replace: 2278385036@qq.com
+  - trigger: ";mailwy"
+    replace: 15601598900@126.com
